@@ -14,3 +14,6 @@ Border Generate
 https://9elements.github.io/fancy-border-radius/
 
 ![2022-12-05_020351](https://user-images.githubusercontent.com/58245926/205510148-e87ce1c7-a6b7-4637-b876-80c294deadd4.png)
+
+### Animation Sample
+![fancy border](https://user-images.githubusercontent.com/58245926/206856871-3ca267e7-1550-4cba-8a1a-0615417e7344.gif)
